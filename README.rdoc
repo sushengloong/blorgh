@@ -1,0 +1,4 @@
+= Blorgh
+
+A mountable Rails engine
+http://edgeguides.rubyonrails.org/engines.html
