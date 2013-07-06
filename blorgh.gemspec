@@ -7,11 +7,11 @@ require "blorgh/version"
 Gem::Specification.new do |s|
   s.name        = "blorgh"
   s.version     = Blorgh::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Blorgh."
-  s.description = "TODO: Description of Blorgh."
+  s.authors     = ["Sheng-Loong Su"]
+  s.email       = ["sushengloong@gmail.com"]
+  s.homepage    = "https://github.com/sushengloong/blorgh"
+  s.summary     = "A mountable Rails engine (blog app)"
+  s.description = "A mountable Rails engine (blog app) http://edgeguides.rubyonrails.org/engines.html"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
